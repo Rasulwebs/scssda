@@ -1,0 +1,27 @@
+.header__container {
+    width: 1280px;
+    margin: 0 auto;
+    nav {
+      display: flex;
+      align-items: center;
+      width: 100%;
+      justify-content: space-between;
+      height: 80px;
+  
+      a {
+        text-decoration: none;
+        color: #83888f;
+        font-family: sans-serif;
+        letter-spacing: 0.923077px;
+        text-transform: uppercase;
+        font-weight: 800;
+        font-size: 12px;
+        line-height: 15px;
+        padding: 16px;
+        &:hover {
+          color: #333d4b;
+        }
+        
+      }
+    }
+  }

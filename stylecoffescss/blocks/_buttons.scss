@@ -1,0 +1,37 @@
+.main__cont__section1__sec-one__sec-one-info button{
+    color: #FEFCF7;
+    font-family: "franc";
+    background: #0E8784;
+    border-radius: 6px;
+    padding: 16px 31px 16px 31px;
+    font-size: 16px;
+
+    &:hover{
+        cursor: pointer;
+    background-color: #23c0bb;
+    }
+
+    &:active{
+        background-color: #1e9c98;
+    }
+}
+
+.main__cont__section4__sec4-cont__sec4-btn{
+    color: #FEFCF7;
+    font-family: "franc";
+    background: #0E8784;
+    border-radius: 6px;
+    padding: 16px 31px 16px 31px;
+    border: none;
+    font-size: 16px;
+    
+
+    &:hover{
+        cursor: pointer;
+    background-color: #23c0bb;
+}
+&:active{
+    background-color: #1e9c98;
+}
+    
+}
